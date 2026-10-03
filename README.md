@@ -4,7 +4,7 @@ Uma implementação do clássico jogo Tetris utilizando HTML5, CSS3 e JavaScript
 
 ![Imagem do Jogo Tetris](https://github.com/user-attachments/assets/9b97e9fe-6c15-46e5-b819-6690d85077b8)
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 -   **Movimentação Completa:** Mova as peças para a esquerda, direita e para baixo.
 -   **Rotação de Peças:** Gire as peças para encaixá-las da melhor forma.
@@ -14,7 +14,7 @@ Uma implementação do clássico jogo Tetris utilizando HTML5, CSS3 e JavaScript
 -   **Tela de "Fim de Jogo":** O jogo termina quando as peças chegam ao topo.
 -   **Reiniciar o Jogo:** Pressione "Enter" para começar uma nova partida.
 
-## 🎮 Como Jogar
+## Como Jogar
 
 O objetivo é simples: complete linhas horizontais com os blocos que caem (Tetriminos). Quando uma linha é completada, ela desaparece e você ganha pontos. O jogo termina se a pilha de blocos atingir o topo da tela.
 
@@ -26,7 +26,7 @@ O objetivo é simples: complete linhas horizontais com os blocos que caem (Tetri
 -   **Seta para Baixo:** Acelerar a queda da peça.
 -   **Enter:** Reiniciar o jogo após o "Fim de Jogo".
 
-## 🛠️ Como Executar Localmente
+## Como Executar Localmente
 
 Para executar o projeto na sua máquina, siga estes passos:
 
@@ -43,7 +43,7 @@ Para executar o projeto na sua máquina, siga estes passos:
 3.  **Abra o arquivo `index.html`:**
     Basta abrir o arquivo `index.html` no seu navegador de preferência. Não é necessário nenhum servidor local ou instalação de dependências.
 
-## 📂 Estrutura dos Arquivos
+## Estrutura dos Arquivos
 
 O projeto está organizado da seguinte forma para manter o código limpo e modular:
 
@@ -56,7 +56,7 @@ O projeto está organizado da seguinte forma para manter o código limpo e modul
 ├──  README.md       # Este arquivo
 ```
 
-## 💻 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 -   **HTML5:** Para a estrutura e elementos da página, como o `<canvas>`.
 -   **CSS3:** Para a estilização, layout e design responsivo.
