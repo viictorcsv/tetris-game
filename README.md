@@ -32,7 +32,7 @@ Para executar o projeto na sua máquina, siga estes passos:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/PittViic/tetris-game.git
+    git clone https://github.com/viictorcsv/tetris-game.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
